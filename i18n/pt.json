@@ -44,6 +44,19 @@
     "point3": "Scrypt AuxPoW · compatível com merge‑mining.",
     "point4": "Guiada pela comunidade, regras claras de emissão e halving."
   },
+  "about": {
+    "title": "Sobre o B1T",
+    "p1": "B1T é uma criptomoeda descentralizada construída sobre transparência, escassez e empoderamento individual. Relançada com foco em comunidade, B1T utiliza o algoritmo Scrypt AuxPoW — comprovado e eficiente — seguro e compatível com merge‑mining.",
+    "p2": "Mas B1T é mais do que uma blockchain. É um símbolo e uma mentalidade. Seguir o Bit é seguir o Coelho Branco — sair de sistemas pré‑definidos, da confiança herdada e de limites artificiais. Não estamos replicando o velho mundo; estamos reescrevendo as regras — bloco por bloco.",
+    "quote": "Siga o Coelho Branco.",
+    "facts": {
+      "supply": "Oferta máxima: 2.100.000 B1T",
+      "reward": "Recompensa atual por bloco: 2,5 B1T",
+      "halving": "Halving: a cada 210.000 blocos",
+      "blocktime": "Tempo de bloco: 1 minuto"
+    },
+    "whitepaper": "Ler o whitepaper"
+  },
   "community": { "title": "Links" },
   "links": {
     "explorers": "Exploradores",

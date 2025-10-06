@@ -44,6 +44,19 @@
     "point3": "Scrypt AuxPoW · kompatibel med sammanslagen brytning.",
     "point4": "Gemenskapsdrivet, tydliga regler för emission och halvering."
   },
+  "about": {
+    "title": "Om B1T",
+    "p1": "B1T är en decentraliserad kryptovaluta byggd på transparens, knapphet och individuell egenmakt. Återlanserad med community‑first‑fokus använder B1T den beprövade och effektiva Scrypt AuxPoW — säker i drift och kompatibel med sammanslagen brytning.",
+    "p2": "Men B1T är mer än en blockkedja. Det är en symbol och ett tankesätt. Att följa Bit är att följa den Vita Kaninen — bort från förutbestämda system, ärvd tillit och artificiella gränser. Vi kopierar inte den gamla världen; vi skriver om reglerna — block för block.",
+    "quote": "Följ den Vita Kaninen.",
+    "facts": {
+      "supply": "Maximal mängd: 2 100 000 B1T",
+      "reward": "Nuvarande blockbelöning: 2,5 B1T",
+      "halving": "Halvering: var 210 000 block",
+      "blocktime": "Blocktid: 1 minut"
+    },
+    "whitepaper": "Läs whitepaper"
+  },
   "community": { "title": "Länkar" },
   "links": {
     "explorers": "Utforskare",

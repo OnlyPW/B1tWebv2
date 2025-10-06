@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "status": "Status",
+    "tech": "Teknik",
+    "community": "Gemenskap",
+    "links": "Länkar",
+    "whitepaper": "Vitbok"
+  },
+  "hero": {
+    "title": "B1T — sällsynt & snabb",
+    "subtitle": "1‑minutsblock, tydliga regler för emission och halvering, drivet av gemenskapen.",
+    "cta": "Öppna Explorer",
+    "blockbook": "Öppna Blockbook",
+    "altcta": "Följ kaninhålet",
+    "tag": "Starkt varumärke · Gemenskapsdrivet · Framtidssäkert",
+    "note": "Scrypt AuxPoW · Gemenskapsprioritet",
+    "webwallet": "Webbplånbok",
+    "corewallet": "Core‑plånbok",
+    "electrum": "Electrum‑plånbok",
+    "nopremine": "Ingen premine · Ingen utvecklaravgift"
+  },
+  "status": {
+    "title": "B1T‑status",
+    "subtitle": "Live‑metrik från offentliga API:er.",
+    "blockheight": "Blockhöjd",
+    "supply": "Cirkulerande mängd",
+    "difficulty": "Svårighetsgrad",
+    "price_usd": "Pris (USD)",
+    "price_usdt": "Pris (USDT)",
+    "hashrate": "Nätverkets hashrate",
+    "updated": "Senast uppdaterad",
+    "error": "Misslyckades att ladda data."
+  },
+  "halving": {
+    "current": "Nuvarande belöning",
+    "next": "Nästa halvering (block)",
+    "blocks": "Återstående block",
+    "countdown": "Nedräkning"
+  },
+  "features": {
+    "title": "Varför B1T",
+    "point1": "Ultra‑sällsynt: maximal mängd 2 100 000 B1T.",
+    "point2": "Snabb: 1‑minutsblock, snabba bekräftelser.",
+    "point3": "Scrypt AuxPoW · kompatibel med sammanslagen brytning.",
+    "point4": "Gemenskapsdrivet, tydliga regler för emission och halvering."
+  },
+  "community": { "title": "Länkar" },
+  "links": {
+    "explorers": "Utforskare",
+    "exchanges": "Börser",
+    "code": "Kod",
+    "community": "Gemenskap",
+    "services": "Tjänster",
+    "socials": "Sociala",
+    "wallets": "Plånböcker",
+    "others": "Övrigt",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Data laddas från offentliga API:er.",
+    "tagline": "FollowTheB1T — gemenskapsdriven B1T‑blockkedja. Ultra‑sällsynt, snabb, Scrypt AuxPoW. Ingen premine · Ingen utvecklaravgift."
+  },
+  "compare": {
+    "title": "Jämför med Bitcoin",
+    "table": {"feature": "Funktion", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Blocktid", "btc": "10 minuter", "b1t": "1 minut"},
+    "row_blocks_per_10m": {"label": "Block per 10 minuter", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Transaktionsavgifter per block", "btc": "Samma, men färre block", "b1t": "Samma, 10× oftare"},
+    "row_fees_per_10m": {"label": "Avgifter per 10 minuter", "btc": "1 block", "b1t": "10 block"},
+    "row_mining_incentive_post_reward": {"label": "Gruvincitament efter belöning", "btc": "Lägre utbetalningar", "b1t": "Oftare utbetalningar"},
+    "row_hashrate_impact": {"label": "Påverkan på hashrate", "btc": "Kan sjunka", "b1t": "Troligen stabil eller ökar"},
+    "row_network_stability": {"label": "Nätverksstabilitet", "btc": "Lägre om hashrate sjunker", "b1t": "Högre, snabbare bekräftelser"}
+  },
+  "latest": {
+    "title": "Senaste transaktioner",
+    "error": "Misslyckades att ladda transaktioner.",
+    "block": "Block",
+    "txid": "TxID",
+    "recipients": "Mottagare"
+  },
+  "exchanges": { "title": "Börser" }
+}

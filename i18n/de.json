@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "status": "Status",
+    "tech": "Technik",
+    "community": "Community",
+    "links": "Links",
+    "whitepaper": "Whitepaper"
+  },
+  "hero": {
+    "title": "B1T — Ultra‑scarce & fast",
+    "subtitle": "1‑Minuten‑Block-Zeit, klare Ausgabe‑ und Halving‑Regeln, Community‑getrieben.",
+    "cta": "Zum Explorer",
+    "blockbook": "Zum Blockbook",
+    "altcta": "Folge der Rabb1t Höhle",
+    "tag": "Strong Branding · Community‑Focused · Zukunftssicher",
+    "note": "Scrypt AuxPoW · Community‑first",
+    "webwallet": "Web Wallet",
+    "corewallet": "Core Wallet",
+    "electrum": "Electrum Wallet",
+    "nopremine": "Kein Premine · Keine Entwicklersteuer"
+  },
+  "about": {
+    "title": "Über B1T",
+    "p1": "B1T ist eine dezentralisierte Kryptowährung, aufgebaut auf Transparenz, Knappheit und individueller Selbstbestimmung. Neu gestartet mit einem klaren Community‑First‑Ansatz nutzt B1T den bewährten, effizienten Scrypt‑AuxPoW‑Algorithmus – sicher im Betrieb und merge‑mining‑kompatibel.",
+    "p2": "Doch B1T ist mehr als nur eine Blockchain. Es ist ein Symbol und eine Status. Dem B1T zu folgen heißt, dem White Rabbit zu folgen – hinaus aus vorgegebenen Systemen, ererbtem Vertrauen und künstlichen editierbarenGrenzen. Wir kopieren nicht die alte Welt, wir schreiben die Regeln neu – Block für Block.",
+    "quote": "Follow the White Rabbit.",
+    "facts": {
+      "supply": "Maximale Menge: 2.100.000 B1T",
+      "reward": "Aktuelle Blockbelohnung: 2,5 B1T",
+      "halving": "Halving: alle 210.000 Blöcke",
+      "blocktime": "Blockzeit: 1 Minute"
+    },
+    "whitepaper": "Whitepaper lesen"
+  },
+  "status": {
+    "title": "B1T Status",
+    "subtitle": "Live‑Metriken direkt aus öffentlichen APIs.",
+    "blockheight": "Blockhöhe",
+    "supply": "Umlaufende Menge",
+    "difficulty": "Difficulty",
+    "price_usd": "Preis (USD)",
+    "price_usdt": "Preis (USDT)",
+    "hashrate": "Netzwerk‑Hashrate",
+    "updated": "Zuletzt aktualisiert",
+    "error": "Fehler beim Laden der Daten."
+  },
+  "features": {
+    "title": "Warum B1T",
+    "point1": "Ultra‑knapp: maximale Menge 2,100,000 B1T.",
+    "point2": "Schnell: 1‑Minuten‑Blöcke, zügige Bestätigungen.",
+    "point3": "Scrypt AuxPoW · Merge‑Mining kompatibel.",
+    "point4": "Community‑getrieben, klare Ausgabe‑ und Halving‑Regeln.",
+    "title2": "Vergleich mit Bitcoin",
+    "tech1": "Blockzeit BTC: 10 Minuten · B1T: 1 Minute.",
+    "tech2": "Belohnungen: B1T 10× häufiger; Bestätigungen schneller."
+  },
+  "community": {
+    "title": "Links"
+  },
+  "links": {
+    "explorers": "Explorer",
+    "exchanges": "Börsen",
+    "code": "Code",
+    "community": "Community",
+    "services": "Services",
+    "socials": "Socials",
+    "wallets": "Wallets",
+    "others": "Others",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Daten werden von öffentlichen APIs geladen.",
+    "tagline": "FollowTheB1T — Community‑getriebene B1T‑Blockchain. Ultra‑knapp, schnell, Scrypt AuxPoW. Kein Premine · Keine Entwicklersteuer."
+  }
+  ,
+  "halving": {
+    "current": "Aktuelle Belohnung",
+    "next": "Nächstes Halving (Block)",
+    "blocks": "Verbleibende Blöcke",
+    "countdown": "Countdown"
+  },
+  "compare": {
+    "title": "Vergleich mit Bitcoin",
+    "blocktime": "Blockzeit",
+    "rewards": "Belohnungsfrequenz",
+    "table": {"feature": "Feature", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Blockzeit", "btc": "10 Minuten", "b1t": "1 Minute"},
+    "row_blocks_per_10m": {"label": "Blöcke pro 10 Minuten", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Transaktionsgebühren pro Block", "btc": "Gleich, aber weniger Blöcke", "b1t": "Gleich, 10× häufiger"},
+    "row_fees_per_10m": {"label": "Gebühren pro 10 Minuten", "btc": "1 Block", "b1t": "10 Blöcke"},
+    "row_mining_incentive_post_reward": {"label": "Mining‑Anreiz nach Reward", "btc": "Geringere Auszahlungen", "b1t": "Häufigere Auszahlungen"},
+    "row_hashrate_impact": {"label": "Einfluss auf Hashrate", "btc": "Kann fallen", "b1t": "Wahrscheinlich stabil oder wachsend"},
+    "row_network_stability": {"label": "Netzstabilität", "btc": "Niedriger bei Hashrate‑Rückgang", "b1t": "Höher, schnellere Bestätigungen"}
+  }
+  ,
+  "latest": {
+    "title": "Neueste Transaktionen",
+    "error": "Fehler beim Laden der Transaktionen.",
+    "block": "Block",
+    "txid": "TxID",
+    "recipients": "Empfänger"
+  },
+  "exchanges": { "title": "Börsen" }
+}

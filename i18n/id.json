@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "status": "Status",
+    "tech": "Teknologi",
+    "community": "Komunitas",
+    "links": "Tautan",
+    "whitepaper": "Whitepaper"
+  },
+  "hero": {
+    "title": "B1T — langka & cepat",
+    "subtitle": "Blok 1 menit, aturan emisi dan halving yang jelas, digerakkan komunitas.",
+    "cta": "Buka Explorer",
+    "blockbook": "Buka Blockbook",
+    "altcta": "Ikuti Rabb1t Hole",
+    "tag": "Brand kuat · Fokus teknologi · Masa depan",
+    "note": "Scrypt AuxPoW · Berbasis komunitas",
+    "webwallet": "Web Wallet",
+    "corewallet": "Core Wallet",
+    "electrum": "Electrum Wallet",
+    "nopremine": "Tanpa premine · Tanpa pajak pengembang"
+  },
+  "status": {
+    "title": "Status B1T",
+    "subtitle": "Metrik langsung dari API publik.",
+    "blockheight": "Ketinggian Blok",
+    "supply": "Peredaran",
+    "difficulty": "Kesulitan",
+    "price_usd": "Harga (USD)",
+    "price_usdt": "Harga (USDT)",
+    "hashrate": "Hashrate Jaringan",
+    "updated": "Terakhir diperbarui",
+    "error": "Gagal memuat data."
+  },
+  "halving": {
+    "current": "Reward saat ini",
+    "next": "Halving berikutnya (blok)",
+    "blocks": "Blok tersisa",
+    "countdown": "Hitung mundur"
+  },
+  "features": {
+    "title": "Mengapa B1T",
+    "point1": "Sangat langka: suplai maksimum 2,100,000 B1T.",
+    "point2": "Cepat: blok 1 menit, konfirmasi cepat.",
+    "point3": "Scrypt AuxPoW · kompatibel merge‑mining.",
+    "point4": "Digerakkan komunitas, aturan emisi dan halving yang jelas."
+  },
+  "compare": {
+    "title": "Bandingkan dengan Bitcoin",
+    "blocktime": "Waktu blok",
+    "rewards": "Frekuensi hadiah",
+    "table": {"feature": "Fitur", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Waktu blok", "btc": "10 menit", "b1t": "1 menit"},
+    "row_blocks_per_10m": {"label": "Blok per 10 menit", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Biaya transaksi per blok", "btc": "Sama, tetapi blok lebih sedikit", "b1t": "Sama, 10× lebih sering"},
+    "row_fees_per_10m": {"label": "Biaya per 10 menit", "btc": "1 blok", "b1t": "10 blok"},
+    "row_mining_incentive_post_reward": {"label": "Insentif penambangan pasca‑reward", "btc": "Pembayaran lebih rendah", "b1t": "Pembayaran lebih sering"},
+    "row_hashrate_impact": {"label": "Dampak pada hashrate", "btc": "Mungkin turun", "b1t": "Kemungkinan stabil atau naik"},
+    "row_network_stability": {"label": "Stabilitas jaringan", "btc": "Lebih rendah jika hashrate turun", "b1t": "Lebih tinggi, konfirmasi lebih cepat"}
+  },
+  "community": { "title": "Tautan" },
+  "links": {
+    "explorers": "Eksplorer",
+    "exchanges": "Bursa",
+    "code": "Kode",
+    "community": "Komunitas",
+    "services": "Layanan",
+    "socials": "Sosial",
+    "wallets": "Dompet",
+    "others": "Lainnya",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Data dimuat dari API publik.",
+    "tagline": "FollowTheB1T — blockchain B1T digerakkan komunitas. Sangat langka, cepat, Scrypt AuxPoW. Tanpa premine · Tanpa pajak pengembang."
+  }
+  ,
+  "about": {
+    "title": "Tentang B1T",
+    "p1": "B1T adalah kripto terdesentralisasi yang dibangun di atas transparansi, kelangkaan, dan pemberdayaan individu. Diluncurkan ulang dengan fokus community‑first, B1T memakai konsensus Scrypt AuxPoW yang terbukti efisien — aman dan kompatibel merge‑mining.",
+    "p2": "Namun B1T lebih dari sekadar blockchain. Ini adalah simbol dan pola pikir. Mengikuti Bit berarti mengikuti White Rabbit — keluar dari sistem yang ditentukan, kepercayaan yang diwariskan, dan batas buatan. Kami tidak menyalin dunia lama; kami menulis ulang aturannya — satu blok demi satu.",
+    "quote": "Ikuti White Rabbit.",
+    "facts": {
+      "supply": "Suplai maksimum: 2.100.000 B1T",
+      "reward": "Reward blok saat ini: 2,5 B1T",
+      "halving": "Halving: setiap 210.000 blok",
+      "blocktime": "Waktu blok: 1 menit"
+    },
+    "whitepaper": "Baca Whitepaper"
+  }
+  ,
+  "latest": {
+    "title": "Transaksi Terbaru",
+    "error": "Gagal memuat transaksi.",
+    "block": "Blok",
+    "txid": "TxID",
+    "recipients": "Penerima"
+  },
+  "exchanges": { "title": "Bursa" }
+}

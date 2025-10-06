@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "status": "状态",
+    "tech": "技术",
+    "community": "社区",
+    "links": "链接",
+    "whitepaper": "白皮书"
+  },
+  "hero": {
+    "title": "B1T — 稀缺且快速",
+    "subtitle": "1分钟区块，清晰的发行与减半规则，社区驱动。",
+    "cta": "打开浏览器",
+    "blockbook": "打开 Blockbook",
+    "altcta": "探索兔子洞",
+    "tag": "强品牌 · 以社區為核心 · 面向未来",
+    "note": "Scrypt AuxPoW · 社区优先",
+    "webwallet": "网页钱包",
+    "corewallet": "核心钱包",
+    "electrum": "Electrum 钱包",
+    "nopremine": "无预挖 · 无开发者税"
+  },
+  "status": {
+    "title": "B1T 状态",
+    "subtitle": "来自公共 API 的实时指标。",
+    "blockheight": "区块高度",
+    "supply": "流通量",
+    "difficulty": "难度",
+    "price_usd": "价格（USD）",
+    "price_usdt": "价格（USDT）",
+    "hashrate": "网络算力",
+    "updated": "最后更新",
+    "error": "数据加载失败。"
+  },
+  "halving": {
+    "current": "当前奖励",
+    "next": "下次减半（区块）",
+    "blocks": "剩余区块",
+    "countdown": "倒计时"
+  },
+  "features": {
+    "title": "为什么选择 B1T",
+    "point1": "极度稀缺：最大供应 2,100,000 B1T。",
+    "point2": "快速：1分钟区块，确认更快。",
+    "point3": "Scrypt AuxPoW · 兼容合并挖矿。",
+    "point4": "社区驱动，清晰的发行与减半规则。"
+  },
+  "compare": {
+    "title": "与比特币对比",
+    "blocktime": "区块时间",
+    "rewards": "奖励频率",
+    "table": {"feature": "特性", "bitcoin": "比特币 (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "区块时间", "btc": "10 分钟", "b1t": "1 分钟"},
+    "row_blocks_per_10m": {"label": "每 10 分钟的区块数", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "每区块交易费", "btc": "相同，但区块更少", "b1t": "相同，频率提高 10×"},
+    "row_fees_per_10m": {"label": "每 10 分钟费用", "btc": "1 个区块", "b1t": "10 个区块"},
+    "row_mining_incentive_post_reward": {"label": "奖励后矿工激励", "btc": "支付更低", "b1t": "支付更频繁"},
+    "row_hashrate_impact": {"label": "对算力的影响", "btc": "可能下降", "b1t": "可能稳定或增长"},
+    "row_network_stability": {"label": "网络稳定性", "btc": "如果算力下降则较低", "b1t": "更高，确认更快"}
+  },
+  "community": { "title": "链接" },
+  "links": {
+    "explorers": "浏览器",
+    "exchanges": "交易所",
+    "code": "代码",
+    "community": "社区",
+    "services": "服务",
+    "socials": "社交",
+    "wallets": "钱包",
+    "others": "其他",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "数据来自公共 API。",
+    "tagline": "FollowTheB1T — 社区驱动的 B1T 区块链。极度稀缺、快速、Scrypt AuxPoW。无预挖 · 无开发者税。"
+  }
+  ,
+  "about": {
+    "title": "关于 B1T",
+    "p1": "B1T 是一种去中心化加密货币，建立在透明性、稀缺性和个体赋能之上。以社区优先为核心重新启动，B1T 采用经过验证且高效的 Scrypt AuxPoW 共识机制——安全并支持合并挖矿。",
+    "p2": "但 B1T 不只是区块链。这是一种符号与心态。跟随 Bit 意味着跟随白兔——跳出现有的既定系统、继承的信任与人为的限制。我们不是复制旧世界，而是重写规则——一块区块接一块区块。",
+    "quote": "跟随白兔。",
+    "facts": {
+      "supply": "最大供应：2,100,000 B1T",
+      "reward": "当前区块奖励：2.5 B1T",
+      "halving": "减半：每 210,000 个区块",
+      "blocktime": "区块时间：1 分钟"
+    },
+    "whitepaper": "阅读白皮书"
+  }
+  ,
+  "latest": {
+    "title": "最新交易",
+    "error": "加载交易失败。",
+    "block": "区块",
+    "txid": "交易ID",
+    "recipients": "接收者"
+  },
+  "exchanges": { "title": "交易所" }
+}

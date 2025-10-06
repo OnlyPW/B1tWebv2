@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "status": "Status",
+    "tech": "Tech",
+    "community": "Community",
+    "links": "Links",
+    "whitepaper": "Whitepaper"
+  },
+  "hero": {
+    "title": "B1T — Ultra‑scarce & fast",
+    "subtitle": "1‑minute blocks, clear issuance and halving rules, Community‑driven.",
+    "cta": "Open Explorer",
+    "blockbook": "Open Blockbook",
+    "altcta": "Follow the Rabb1t Hole",
+    "tag": "Strong Branding · Community‑Focused · Future‑proof",
+    "note": "Scrypt AuxPoW · Community‑first",
+    "webwallet": "Web Wallet",
+    "corewallet": "Core Wallet",
+    "electrum": "Electrum Wallet",
+    "nopremine": "No premine · No developer tax"
+  },
+  "about": {
+    "title": "About B1T",
+    "p1": "B1T is a decentralized cryptocurrency built on transparency, scarcity, and individual empowerment. Relaunched with a community‑first focus, B1T uses the proven and efficient Scrypt AuxPoW algorithm – secure in operation and merge‑mining compatible.",
+    "p2": "But B1T is more than a blockchain. It’s a symbol and a mindset. To follow the Bit is to follow the White Rabbit — stepping outside predefined systems, inherited trust, and artificial limits. We’re not replicating the old world; we’re rewriting the rules — one block at a time.",
+    "quote": "Follow the White Rabbit.",
+    "facts": {
+      "supply": "Max supply: 2,100,000 B1T",
+      "reward": "Current block reward: 2.5 B1T",
+      "halving": "Halving: every 210,000 blocks",
+      "blocktime": "Block time: 1 minute"
+    },
+    "whitepaper": "Read Whitepaper"
+  },
+  "status": {
+    "title": "B1T Status",
+    "subtitle": "Live metrics from public APIs.",
+    "blockheight": "Block Height",
+    "supply": "Circulating Supply",
+    "difficulty": "Difficulty",
+    "price_usd": "Price (USD)",
+    "price_usdt": "Price (USDT)",
+    "hashrate": "Network Hashrate",
+    "updated": "Last updated",
+    "error": "Failed to load data."
+  },
+  "halving": {
+    "current": "Current Reward",
+    "next": "Next Halving (block)",
+    "blocks": "Blocks remaining",
+    "countdown": "Countdown"
+  },
+  "features": {
+    "title": "Why B1T",
+    "point1": "Ultra‑scarce: max supply 2,100,000 B1T.",
+    "point2": "Fast: 1‑minute blocks, quick confirmations.",
+    "point3": "Scrypt AuxPoW · merge‑mining compatible.",
+    "point4": "Community‑driven, clear issuance and halving rules."
+  },
+  "community": {
+    "title": "Links"
+  },
+  "links": {
+    "explorers": "Explorers",
+    "exchanges": "Exchanges",
+    "code": "Code",
+    "community": "Community",
+    "services": "Services",
+    "socials": "Socials",
+    "wallets": "Wallets",
+    "others": "Others",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Data loaded from public APIs.",
+    "tagline": "FollowTheB1T — community‑driven B1T blockchain. Ultra‑scarce, fast, Scrypt AuxPoW. No premine · No developer tax."
+  }
+  ,
+  "compare": {
+    "title": "Compare to Bitcoin",
+    "blocktime": "Block time",
+    "rewards": "Reward frequency",
+    "table": {"feature": "Feature", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Block Time", "btc": "10 minutes", "b1t": "1 minute"},
+    "row_blocks_per_10m": {"label": "Blocks per 10 minutes", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Transaction fees per block", "btc": "Same, but fewer blocks", "b1t": "Same, 10× more frequent"},
+    "row_fees_per_10m": {"label": "Fees per 10 minutes", "btc": "1 block", "b1t": "10 blocks"},
+    "row_mining_incentive_post_reward": {"label": "Mining incentive post‑reward", "btc": "Lower payouts", "b1t": "More frequent payouts"},
+    "row_hashrate_impact": {"label": "Impact on hashrate", "btc": "May drop", "b1t": "Likely stable or grow"},
+    "row_network_stability": {"label": "Network stability", "btc": "Lower if hashrate drops", "b1t": "Higher, faster confirmations"}
+  }
+  ,
+  "latest": {
+    "title": "Latest Transactions",
+    "error": "Failed to load transactions.",
+    "block": "Block",
+    "txid": "TxID",
+    "recipients": "Recipients"
+  },
+  "exchanges": { "title": "Exchanges" }
+}

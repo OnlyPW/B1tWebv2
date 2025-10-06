@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "status": "Trạng thái",
+    "tech": "Công nghệ",
+    "community": "Cộng đồng",
+    "links": "Liên kết",
+    "whitepaper": "Sách trắng"
+  },
+  "hero": {
+    "title": "B1T — khan hiếm và nhanh",
+    "subtitle": "Khối 1 phút, quy tắc phát hành và halving rõ ràng, do cộng đồng dẫn dắt.",
+    "cta": "Mở Explorer",
+    "blockbook": "Mở Blockbook",
+    "altcta": "Theo con thỏ",
+    "tag": "Thương hiệu mạnh · Hướng tới cộng đồng · Tương lai",
+    "note": "Scrypt AuxPoW · Ưu tiên cộng đồng",
+    "webwallet": "Ví web",
+    "corewallet": "Ví Core",
+    "electrum": "Ví Electrum",
+    "nopremine": "Không premine · Không thuế nhà phát triển"
+  },
+  "status": {
+    "title": "Trạng thái B1T",
+    "subtitle": "Chỉ số trực tiếp từ API công khai.",
+    "blockheight": "Chiều cao khối",
+    "supply": "Lưu hành",
+    "difficulty": "Độ khó",
+    "price_usd": "Giá (USD)",
+    "price_usdt": "Giá (USDT)",
+    "hashrate": "Hashrate mạng",
+    "updated": "Cập nhật lần cuối",
+    "error": "Tải dữ liệu thất bại."
+  },
+  "features": {
+    "title": "Vì sao B1T",
+    "point1": "Rất khan hiếm: nguồn cung tối đa 2,100,000 B1T.",
+    "point2": "Nhanh: khối 1 phút, xác nhận nhanh.",
+    "point3": "Scrypt AuxPoW · tương thích merge‑mining.",
+    "point4": "Do cộng đồng dẫn dắt, quy tắc phát hành và halving rõ ràng."
+  },
+  "compare": {
+    "title": "So sánh với Bitcoin",
+    "blocktime": "Thời gian khối",
+    "rewards": "Tần suất phần thưởng",
+    "table": {"feature": "Tính năng", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Thời gian khối", "btc": "10 phút", "b1t": "1 phút"},
+    "row_blocks_per_10m": {"label": "Số khối mỗi 10 phút", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Phí giao dịch mỗi khối", "btc": "Giống nhau, nhưng ít khối hơn", "b1t": "Giống nhau, thường xuyên gấp 10×"},
+    "row_fees_per_10m": {"label": "Phí trong 10 phút", "btc": "1 khối", "b1t": "10 khối"},
+    "row_mining_incentive_post_reward": {"label": "Ưu đãi đào sau phần thưởng", "btc": "Chi trả thấp hơn", "b1t": "Chi trả thường xuyên hơn"},
+    "row_hashrate_impact": {"label": "Tác động đến hashrate", "btc": "Có thể giảm", "b1t": "Có khả năng ổn định hoặc tăng"},
+    "row_network_stability": {"label": "Độ ổn định mạng", "btc": "Thấp hơn nếu hashrate giảm", "b1t": "Cao hơn, xác nhận nhanh hơn"}
+  },
+  "community": { "title": "Liên kết" },
+  "links": {
+    "explorers": "Trình khám phá",
+    "exchanges": "Sàn giao dịch",
+    "code": "Mã",
+    "community": "Cộng đồng",
+    "services": "Dịch vụ",
+    "socials": "Mạng xã hội",
+    "wallets": "Ví",
+    "others": "Khác",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Dữ liệu tải từ API công khai.",
+    "tagline": "FollowTheB1T — blockchain B1T do cộng đồng dẫn dắt. Rất khan hiếm, nhanh, Scrypt AuxPoW. Không premine · Không thuế nhà phát triển."
+  }
+  ,
+  "halving": {
+    "current": "Phần thưởng hiện tại",
+    "next": "Halving tiếp theo (khối)",
+    "blocks": "Khối còn lại",
+    "countdown": "Đếm ngược"
+  }
+  ,
+  "about": {
+    "title": "Giới thiệu B1T",
+    "p1": "B1T là tiền mã hóa phi tập trung dựa trên sự minh bạch, khan hiếm và trao quyền cho cá nhân. Tái khởi động với định hướng community‑first, B1T sử dụng cơ chế đồng thuận Scrypt AuxPoW đã được kiểm chứng — an toàn và tương thích merge‑mining.",
+    "p2": "Nhưng B1T còn hơn cả blockchain. Đó là biểu tượng và tư duy. Theo Bit là theo White Rabbit — bước ra khỏi các hệ thống định sẵn, niềm tin thừa hưởng và giới hạn nhân tạo. Chúng tôi không sao chép thế giới cũ; chúng tôi viết lại luật chơi — từng khối một.",
+    "quote": "Follow the White Rabbit.",
+    "facts": {
+      "supply": "Nguồn cung tối đa: 2.100.000 B1T",
+      "reward": "Phần thưởng khối hiện tại: 2,5 B1T",
+      "halving": "Halving: mỗi 210.000 khối",
+      "blocktime": "Thời gian khối: 1 phút"
+    },
+    "whitepaper": "Đọc Whitepaper"
+  }
+  ,
+  "latest": {
+    "title": "Giao dịch mới nhất",
+    "error": "Tải giao dịch thất bại.",
+    "block": "Khối",
+    "txid": "TxID",
+    "recipients": "Người nhận"
+  },
+  "exchanges": { "title": "Sàn giao dịch" }
+}

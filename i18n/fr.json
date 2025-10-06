@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "status": "Statut",
+    "tech": "Tech",
+    "community": "Communauté",
+    "links": "Liens",
+    "whitepaper": "Livre blanc"
+  },
+  "hero": {
+    "title": "B1T — rare et rapide",
+    "subtitle": "Blocs d'une minute, règles claires d’émission et de halving, porté par la communauté.",
+    "cta": "Ouvrir l'explorateur",
+    "blockbook": "Ouvrir Blockbook",
+    "altcta": "Suivre le terrier du lapin",
+    "tag": "Marque forte · Axé sur la communauté · Pérenne",
+    "note": "Scrypt AuxPoW · Priorité à la communauté",
+    "webwallet": "Portefeuille web",
+    "corewallet": "Core Wallet",
+    "electrum": "Electrum Wallet",
+    "nopremine": "Sans premine · Sans taxe développeur"
+  },
+  "status": {
+    "title": "Statut B1T",
+    "subtitle": "Mesures en direct depuis des API publiques.",
+    "blockheight": "Hauteur de bloc",
+    "supply": "Offre en circulation",
+    "difficulty": "Difficulté",
+    "price_usd": "Prix (USD)",
+    "price_usdt": "Prix (USDT)",
+    "hashrate": "Hashrate du réseau",
+    "updated": "Dernière mise à jour",
+    "error": "Échec du chargement des données."
+  },
+  "halving": {
+    "current": "Récompense actuelle",
+    "next": "Prochain halving (bloc)",
+    "blocks": "Blocs restants",
+    "countdown": "Compte à rebours"
+  },
+  "features": {
+    "title": "Pourquoi B1T",
+    "point1": "Ultra‑rare : offre maximale 2 100 000 B1T.",
+    "point2": "Rapide : blocs d'une minute, confirmations rapides.",
+    "point3": "Scrypt AuxPoW · compatible merge‑mining.",
+    "point4": "Porté par la communauté, règles claires d’émission et de halving."
+  },
+  "compare": {
+    "title": "Comparé à Bitcoin",
+    "blocktime": "Temps de bloc",
+    "rewards": "Fréquence des récompenses",
+    "table": {"feature": "Caractéristique", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Temps de bloc", "btc": "10 minutes", "b1t": "1 minute"},
+    "row_blocks_per_10m": {"label": "Blocs par 10 minutes", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Frais de transaction par bloc", "btc": "Identiques, mais moins de blocs", "b1t": "Identiques, 10× plus fréquents"},
+    "row_fees_per_10m": {"label": "Frais par 10 minutes", "btc": "1 bloc", "b1t": "10 blocs"},
+    "row_mining_incentive_post_reward": {"label": "Incitation minière après récompense", "btc": "Paiements plus faibles", "b1t": "Paiements plus fréquents"},
+    "row_hashrate_impact": {"label": "Impact sur le hashrate", "btc": "Peut diminuer", "b1t": "Probablement stable ou en hausse"},
+    "row_network_stability": {"label": "Stabilité du réseau", "btc": "Plus faible si le hashrate baisse", "b1t": "Plus élevée, confirmations plus rapides"}
+  },
+  "community": { "title": "Liens" },
+  "links": {
+    "explorers": "Explorateurs",
+    "exchanges": "Bourses",
+    "code": "Code",
+    "community": "Communauté",
+    "services": "Services",
+    "socials": "Réseaux",
+    "wallets": "Portefeuilles",
+    "others": "Autres",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Données chargées depuis des API publiques.",
+    "tagline": "FollowTheB1T — blockchain B1T portée par la communauté. Ultra‑rare, rapide, Scrypt AuxPoW. Sans premine · Sans taxe développeur."
+  }
+  ,
+  "about": {
+    "title": "À propos de B1T",
+    "p1": "B1T est une cryptomonnaie décentralisée fondée sur la transparence, la rareté et l’autonomisation individuelle. Relancée avec une approche community‑first, B1T utilise le consensus Scrypt AuxPoW — éprouvé et efficace — sécurisé et compatible merge‑mining.",
+    "p2": "Mais B1T est plus qu’une blockchain. C’est un symbole et un état d’esprit. Suivre le Bit, c’est suivre le White Rabbit — sortir des systèmes prédéfinis, de la confiance héritée et des limites artificielles. Nous ne répliquons pas l’ancien monde, nous réécrivons les règles — bloc après bloc.",
+    "quote": "Follow the White Rabbit.",
+    "facts": {
+      "supply": "Offre maximale : 2 100 000 B1T",
+      "reward": "Récompense de bloc actuelle : 2,5 B1T",
+      "halving": "Halving : toutes les 210 000 blocs",
+      "blocktime": "Temps de bloc : 1 minute"
+    },
+    "whitepaper": "Lire le whitepaper"
+  }
+  ,
+  "latest": {
+    "title": "Dernières transactions",
+    "error": "Échec du chargement des transactions.",
+    "block": "Bloc",
+    "txid": "TxID",
+    "recipients": "Destinataires"
+  },
+  "exchanges": { "title": "Bourses" }
+}

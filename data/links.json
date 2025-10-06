@@ -1,0 +1,40 @@
+{
+  "explorers": [
+    { "name": "b1texplorer", "url": "https://b1texplorer.com" },
+    { "name": "blockbook", "url": "https://blockbook.b1tcore.org/blocks" },
+    { "name": "Ordinals", "url": "https://ord.b1texplorer.com" }
+  ],
+  "exchanges": [
+    { "name": "BIT.COM", "url": "https://www.bit.com/spot?pair=B1T-USDT" },
+    { "name": "SafeTrade", "url": "https://safetrade.com/exchange/B1T-USDT?type=basic" },
+    { "name": "Exbitron", "url": "https://app.exbitron.com/exchange/?market=B1T-USDT" },
+    { "name": "NestEx", "url": "https://trade.nestex.one/spot/b1t" },
+    { "name": "BITGOGET", "url": "https://bitgoget.com/spot/B1TUSDT" },
+    { "name": "KlingEx", "url": "https://klingex.io/trade/B1T-USDT" }
+  ],
+  "code": [
+    { "name": "GitHub (bitsite)", "url": "https://github.com/bittoshimoto/bitsite" },
+    { "name": "GitHub (B1T Core Wallet)", "url": "https://github.com/bittoshimoto/Bit" },
+    { "name": "GitHub (org)", "url": "https://github.com/bittoshimoto" }
+  ],
+  "socials": [
+    { "name": "Discord", "url": "https://discord.gg/UevXymWWjD" },
+    { "name": "X.com", "url": "https://x.com/bittoshimo" },
+    { "name": "Reddit", "url": "https://www.reddit.com/r/FollowTheBit/" }
+  ],
+  "wallets": [
+    { "name": "Windows", "url": "https://github.com/bittoshimoto/Bit/releases/download/Bit.v3/bit.v3.zip" },
+    { "name": "Linux", "url": "https://github.com/bittoshimoto/Bit/releases/download/Bit.v3/bit.v3.tar.gz" },
+    { "name": "Android", "url": "https://github.com/bittoshimoto/Bitdroid/releases/download/Bitv1/Bit.apk" },
+    { "name": "Web Wallet", "url": "https://webwallet.b1tcore.org/" }
+  ],
+  "others": [
+    { "name": "Live Coin Watch", "url": "https://www.livecoinwatch.com/price/Bit-B1T" },
+    { "name": "Coin Paprika", "url": "https://coinpaprika.com/coin/b1t-bit/" },
+    { "name": "Blockspot", "url": "https://blockspot.io/coin/bit-2/" },
+    { "name": "Mining Pool Stats", "url": "https://miningpoolstats.stream/bit" }
+  ],
+  "rabb1ts": [
+    { "name": "RABB1TS", "url": "https://rabb1t.org/" }
+  ]
+}

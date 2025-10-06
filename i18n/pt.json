@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "status": "Status",
+    "tech": "Tecnologia",
+    "community": "Comunidade",
+    "links": "Links",
+    "whitepaper": "Livro branco"
+  },
+  "hero": {
+    "title": "B1T — escasso e rápido",
+    "subtitle": "Blocos de 1 minuto, regras claras de emissão e halving, impulsionado pela comunidade.",
+    "cta": "Abrir Explorer",
+    "blockbook": "Abrir Blockbook",
+    "altcta": "Seguir a toca do coelho",
+    "tag": "Marca forte · Impulsionado pela comunidade · Futuro",
+    "note": "Scrypt AuxPoW · Prioridade à comunidade",
+    "webwallet": "Carteira Web",
+    "corewallet": "Carteira Core",
+    "electrum": "Carteira Electrum",
+    "nopremine": "Sem premine · Sem taxa de desenvolvedor"
+  },
+  "status": {
+    "title": "Status do B1T",
+    "subtitle": "Métricas ao vivo de APIs públicas.",
+    "blockheight": "Altura do bloco",
+    "supply": "Oferta em circulação",
+    "difficulty": "Dificuldade",
+    "price_usd": "Preço (USD)",
+    "price_usdt": "Preço (USDT)",
+    "hashrate": "Hashrate da rede",
+    "updated": "Última atualização",
+    "error": "Falha ao carregar os dados."
+  },
+  "halving": {
+    "current": "Recompensa atual",
+    "next": "Próximo halving (bloco)",
+    "blocks": "Blocos restantes",
+    "countdown": "Contagem regressiva"
+  },
+  "features": {
+    "title": "Por que B1T",
+    "point1": "Ultra‑escassa: oferta máxima de 2.100.000 B1T.",
+    "point2": "Rápida: blocos de 1 minuto, confirmações rápidas.",
+    "point3": "Scrypt AuxPoW · compatível com merge‑mining.",
+    "point4": "Guiada pela comunidade, regras claras de emissão e halving."
+  },
+  "community": { "title": "Links" },
+  "links": {
+    "explorers": "Exploradores",
+    "exchanges": "Exchanges",
+    "code": "Código",
+    "community": "Comunidade",
+    "services": "Serviços",
+    "socials": "Redes sociais",
+    "wallets": "Carteiras",
+    "others": "Outros",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Dados carregados de APIs públicas.",
+    "tagline": "FollowTheB1T — blockchain B1T guiada pela comunidade. Ultra‑escassa, rápida, Scrypt AuxPoW. Sem premine · Sem taxa de desenvolvedor."
+  },
+  "compare": {
+    "title": "Comparar com Bitcoin",
+    "table": {"feature": "Recurso", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Tempo de bloco", "btc": "10 minutos", "b1t": "1 minuto"},
+    "row_blocks_per_10m": {"label": "Blocos por 10 minutos", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Taxas por bloco", "btc": "Mesmas taxas, porém menos blocos", "b1t": "Mesmas taxas, 10× mais frequentes"},
+    "row_fees_per_10m": {"label": "Taxas por 10 minutos", "btc": "1 bloco", "b1t": "10 blocos"},
+    "row_mining_incentive_post_reward": {"label": "Incentivo de mineração pós‑recompensa", "btc": "Pagamentos menores", "b1t": "Pagamentos mais frequentes"},
+    "row_hashrate_impact": {"label": "Impacto no hashrate", "btc": "Pode cair", "b1t": "Provavelmente estável ou em alta"},
+    "row_network_stability": {"label": "Estabilidade da rede", "btc": "Menor se o hashrate cair", "b1t": "Maior, confirmações mais rápidas"}
+  },
+  "latest": {
+    "title": "Transações mais recentes",
+    "error": "Falha ao carregar as transações.",
+    "block": "Bloco",
+    "txid": "TxID",
+    "recipients": "Destinatários"
+  },
+  "exchanges": { "title": "Exchanges" }
+}

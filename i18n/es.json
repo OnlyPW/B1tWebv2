@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "status": "Estado",
+    "tech": "Tecnología",
+    "community": "Comunidad",
+    "links": "Enlaces",
+    "whitepaper": "Libro blanco"
+  },
+  "hero": {
+    "title": "B1T — escaso y rápido",
+    "subtitle": "Bloques de 1 minuto, reglas claras de emisión y halving, impulsado por la comunidad.",
+    "cta": "Abrir Explorer",
+    "blockbook": "Abrir Blockbook",
+    "altcta": "Sigue la madriguera del conejo",
+    "tag": "Marca fuerte · Impulsado por la comunidad · Futuro",
+    "note": "Scrypt AuxPoW · Prioridad a la comunidad",
+    "webwallet": "Cartera web",
+    "corewallet": "Cartera Core",
+    "electrum": "Cartera Electrum",
+    "nopremine": "Sin premine · Sin impuesto de desarrollador"
+  },
+  "status": {
+    "title": "Estado de B1T",
+    "subtitle": "Métricas en vivo desde APIs públicas.",
+    "blockheight": "Altura de bloque",
+    "supply": "Suministro en circulación",
+    "difficulty": "Dificultad",
+    "price_usd": "Precio (USD)",
+    "price_usdt": "Precio (USDT)",
+    "hashrate": "Hashrate de la red",
+    "updated": "Última actualización",
+    "error": "Error al cargar los datos."
+  },
+  "halving": {
+    "current": "Recompensa actual",
+    "next": "Próximo halving (bloque)",
+    "blocks": "Bloques restantes",
+    "countdown": "Cuenta regresiva"
+  },
+  "features": {
+    "title": "Por qué B1T",
+    "point1": "Ultra‑escaso: suministro máximo de 2.100.000 B1T.",
+    "point2": "Rápido: bloques de 1 minuto, confirmaciones rápidas.",
+    "point3": "Scrypt AuxPoW · compatible con merge‑mining.",
+    "point4": "Impulsado por la comunidad, reglas claras de emisión y halving."
+  },
+  "community": { "title": "Enlaces" },
+  "links": {
+    "explorers": "Exploradores",
+    "exchanges": "Intercambios",
+    "code": "Código",
+    "community": "Comunidad",
+    "services": "Servicios",
+    "socials": "Redes sociales",
+    "wallets": "Carteras",
+    "others": "Otros",
+    "rabb1ts": "RABB1TS"
+  },
+  "footer": {
+    "disclaimer": "Datos cargados de APIs públicas.",
+    "tagline": "FollowTheB1T — blockchain B1T impulsada por la comunidad. Ultra‑escasa, rápida, Scrypt AuxPoW. Sin premine · Sin impuesto de desarrollador."
+  },
+  "compare": {
+    "title": "Comparar con Bitcoin",
+    "table": {"feature": "Característica", "bitcoin": "Bitcoin (BTC)", "bit": "Bit (B1T)"},
+    "row_block_time": {"label": "Tiempo de bloque", "btc": "10 minutos", "b1t": "1 minuto"},
+    "row_blocks_per_10m": {"label": "Bloques por 10 minutos", "btc": "1", "b1t": "10"},
+    "row_fees_per_block": {"label": "Comisiones por bloque", "btc": "Iguales, pero menos bloques", "b1t": "Iguales, 10× más frecuentes"},
+    "row_fees_per_10m": {"label": "Comisiones por 10 minutos", "btc": "1 bloque", "b1t": "10 bloques"},
+    "row_mining_incentive_post_reward": {"label": "Incentivo de minería tras la recompensa", "btc": "Pagos más bajos", "b1t": "Pagos más frecuentes"},
+    "row_hashrate_impact": {"label": "Impacto en el hashrate", "btc": "Puede disminuir", "b1t": "Probablemente estable o en aumento"},
+    "row_network_stability": {"label": "Estabilidad de la red", "btc": "Menor si el hashrate cae", "b1t": "Mayor, confirmaciones más rápidas"}
+  },
+  "latest": {
+    "title": "Transacciones recientes",
+    "error": "Error al cargar las transacciones.",
+    "block": "Bloque",
+    "txid": "TxID",
+    "recipients": "Destinatarios"
+  },
+  "exchanges": { "title": "Intercambios" }
+}

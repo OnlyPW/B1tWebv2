@@ -303,6 +303,23 @@ document.addEventListener('DOMContentLoaded', () => {
   setInterval(loadLatestTxs, 60_000);
 });
 
+// Copy-to-clipboard for donations
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('[data-copy]').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      try {
+        const sel = btn.getAttribute('data-copy');
+        const el = sel ? document.querySelector(sel) : null;
+        const text = el ? el.textContent.trim() : '';
+        if (!text) return;
+        await navigator.clipboard.writeText(text);
+        btn.textContent = (i18n.data?.donations?.copied || 'Copied!');
+        setTimeout(() => { btn.textContent = (i18n.data?.donations?.copy || 'Copy'); }, 1200);
+      } catch {}
+    });
+  });
+});
+
 // Exchanges Logos Grid
 async function loadExchangesGrid() {
   const container = document.getElementById('exchangesGrid');

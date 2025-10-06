@@ -98,4 +98,16 @@
     "recipients": "Recipients"
   },
   "exchanges": { "title": "Exchanges" }
+  ,
+  "donations": {
+    "title": "Donations",
+    "subtitle": "Support development and community efforts. Thank you!",
+    "b1t_label": "Donate B1T (native)",
+    "evm_label": "Donate via EVM (ETH/BSC/Polygon/Base)",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "supported_chains": "Supported Chains:",
+    "accepted": "Accepted:",
+    "accepted_desc": "Native: ETH, BNB, MATIC · Tokens: USDT, USDC"
+  }
 }

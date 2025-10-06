@@ -101,4 +101,16 @@
     "recipients": "Empfänger"
   },
   "exchanges": { "title": "Börsen" }
+  ,
+  "donations": {
+    "title": "Spenden",
+    "subtitle": "Unterstütze Entwicklung und Community‑Aktivitäten. Vielen Dank!",
+    "b1t_label": "Spende B1T (native)",
+    "evm_label": "Spende via EVM (ETH/BSC/Polygon/Base)",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "supported_chains": "Unterstützte Chains:",
+    "accepted": "Akzeptiert:",
+    "accepted_desc": "Native: ETH, BNB, MATIC · Tokens: USDT, USDC"
+  }
 }

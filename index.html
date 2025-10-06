@@ -129,6 +129,8 @@
       </div>
     </section>
 
+    
+
     <!-- Status -->
     <section id="status" class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-16">
       <h2 class="text-3xl font-semibold" data-i18n="status.title">B1T Status</h2>
@@ -257,6 +259,44 @@
       </div>
     </section>
 
+
+    <!-- Donations (moved below compare, above links) -->
+    <section id="donations" class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-12">
+      <div class="glass rounded-xl p-6 border border-white/10">
+        <h3 class="text-2xl font-semibold" data-i18n="donations.title">Donations</h3>
+        <p class="text-gray-300 mt-2" data-i18n="donations.subtitle">Support development and community efforts. Thank you!</p>
+
+        <div class="mt-5 grid md:grid-cols-2 gap-6">
+          <!-- B1T native address -->
+          <div class="glass rounded-lg p-4 border border-white/10">
+            <div class="text-sm text-gray-400" data-i18n="donations.b1t_label">Donate B1T (native)</div>
+            <div class="mt-2 flex items-center gap-2">
+              <code id="addrB1T" class="text-brand break-all">B7ihbfYmhcn2KiP4j7dt6wtzEJUkH2y7CL</code>
+              <button class="bg-brand text-black px-3 py-1 rounded text-sm hover:opacity-90" data-copy="#addrB1T" data-i18n="donations.copy">Copy</button>
+            </div>
+            <div class="mt-3">
+              <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=B7ihbfYmhcn2KiP4j7dt6wtzEJUkH2y7CL" alt="B1T QR" class="rounded border border-white/10" />
+            </div>
+          </div>
+
+          <!-- EVM address -->
+          <div class="glass rounded-lg p-4 border border-white/10">
+            <div class="text-sm text-gray-400" data-i18n="donations.evm_label">Donate via EVM (ETH/BSC/Polygon/Base)</div>
+            <div class="mt-2 flex items-center gap-2">
+              <code id="addrEVM" class="text-brand break-all">0x522bab444709317D005e18Da06ad3bA3e88F1793</code>
+              <button class="bg-brand text-black px-3 py-1 rounded text-sm hover:opacity-90" data-copy="#addrEVM" data-i18n="donations.copy">Copy</button>
+            </div>
+            <div class="mt-3">
+              <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=0x522bab444709317D005e18Da06ad3bA3e88F1793" alt="EVM QR" class="rounded border border-white/10" />
+            </div>
+            <div class="mt-3 text-sm text-gray-300">
+              <div><span class="font-semibold" data-i18n="donations.supported_chains">Supported Chains:</span> <span>Ethereum, Binance Smart Chain, Polygon, Base</span></div>
+              <div class="mt-1"><span class="font-semibold" data-i18n="donations.accepted">Accepted:</span> <span data-i18n="donations.accepted_desc">Native: ETH, BNB, MATIC · Tokens: USDT, USDC</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Community -->
     <section id="community" class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-20">
